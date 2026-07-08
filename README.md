@@ -28,8 +28,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [My Code on GitHub](YOUR_GITHUB_REPOSITORY_LINK_HERE)
-- Live Site URL: [Live Website on GitHub Pages](YOUR_GITHUB_PAGES_LIVE_LINK_HERE)
+- Solution URL: [My Code on GitHub](https://github.com/doomyhub229/-14Product-preview-card-component)
+- Live Site URL: [Live Website on GitHub Pages](https://doomyhub229.github.io/-14Product-preview-card-component/)
 
 ## My process
 
